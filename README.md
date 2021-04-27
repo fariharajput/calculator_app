@@ -43,7 +43,8 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 # Demo-Preview
 
 
-![image](../image/screencapture-fariha-calculator-app-netlify-app-2021-04-27-23_55_01.png)
+![image](https://user-images.githubusercontent.com/63462869/116300055-de939600-a7b7-11eb-900f-cde5a0e752b7.png)
+
 
 <!-- Add a demo for your project -->
 
