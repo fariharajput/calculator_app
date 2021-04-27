@@ -1,13 +1,13 @@
-# calculator_app 
+
 <!-- Add banner here -->
 
-# Project Title
+# Calculator_App
 
 <!-- Add buttons here -->
 
 <!-- Describe your project in brief -->
 
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+<!-- The Calculator_App should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 
@@ -41,7 +41,7 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 ![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat? -->
 
 # Demo-Preview
-
+![images](../image/screencapture-fariha-calculator-app-netlify-app-2021-04-27-23_55_01.png)
 <!-- Add a demo for your project -->
 
 <!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
@@ -56,8 +56,7 @@ Here is a random GIF as a placeholder.
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [calculator_app](#calculator_app)
-- [Project Title](#project-title)
+- [Calculator_App](#calculator_app)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
