@@ -44,7 +44,7 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 
 ![image](https://user-images.githubusercontent.com/63462869/116300055-de939600-a7b7-11eb-900f-cde5a0e752b7.png)
-![image](https://fariha-calculator-app.netlify.app/)
+![Live Demo](https://fariha-calculator-app.netlify.app/)
 - [Live Demo]
 
 <!-- Add a demo for your project -->
